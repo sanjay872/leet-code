@@ -13,11 +13,15 @@ Practicing leetcode problems
     2) Meet the condition
     3) Contract the window
 
-    Day 1: 
     Solving Maximum Average subarray
     Things learnt
     - 1) DOUBLE.Min_Value is not negative
     - 2) Use Math.max or min to find max and min.
     - 3) Keep it simple.
     Find all anagrams in a String
-    
+    Things learnt
+    - 1) Centralized hash table is used
+    - 2) when window moved, the data is resetted.
+    Permutation in string
+    Things learnt
+    1) this is same as anagram
