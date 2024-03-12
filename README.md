@@ -25,3 +25,6 @@ Practicing leetcode problems
     Permutation in string
     Things learnt
     1) this is same as anagram
+    Substrings of Size Three with Distinct Characters
+    Things learnt
+    1) compare the three value and move the window
